@@ -1,12 +1,13 @@
 ---
 layout: page
-title: Honors&Awards
-permalink: /honors&awards/
+title: Awards
+permalink: /awards/
 main_nav: true
 ---
 
-### Selected Honors and Awards
+### Selected Awards, Honors and Recognitions
 
+* Data Challenge Competition Finalist, QSR Section, INFORMS,2019
 * Feature article in ISE Magazine, IISE, 2019
 * Gilbreth Memorial Fellowship, IISE, 2018-2019
 * Best Poster Award, INFORMS Annual Meeting, 2018
