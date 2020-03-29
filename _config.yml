@@ -9,11 +9,17 @@ exclude:
   - "/vendor/"
 
 # Site settings
-title: Welcome to STARs laboratory!
-subtitle: "Smart Technologies and Analytics Research in manufacturing and healthcare"
+title: Welcome to STARs Laboratory!
+subtitle: "Smart Technologies and Analytics Research (STARs) Laboratory"
 email: chenang.liu@okstate.edu
-name: STARs laboratory
+name: STARs Laboratory
 description: >
+  Smart Technologies and Analytics Research for manufacturing and healthcar  
+  Smart Technologies and Analytics Research for manufacturing and healthcare
+  Smart Technologies and Analytics Research for manufacturing and healthcare
+  Smart Technologies and Analytics Research for manufacturing and healthcare
+  Smart Technologies and Analytics Research for manufacturing and healthcare
+  Smart Technologies and Analytics Research for manufacturing and healthcare
   Smart Technologies and Analytics Research for manufacturing and healthcare
 # Base URL of site (i.e. /blog). It should always start with a slash,
 # and never end with a slash. Set it to a blank value if hosting at the
