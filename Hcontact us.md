@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Contact us
-permalink: /contact_us/
+title: Contact
+permalink: /contact/
 main_nav: true
 ---
 
