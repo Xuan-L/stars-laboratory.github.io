@@ -7,7 +7,7 @@ main_nav: true
 
 # Course Instructor
 * IEM 3303/MET 3543 (Fall 2019): Manufacturing Processes, Oklahoma State University
-* IEM 4103/IEM 5103 (Spring 2020): Quality Control/Breakthrough
+* IEM 4103/IEM 5103 (Spring 2020): Quality Control/Breakthrough Quality, Oklahoma State University
 
 # Mentor
 * IEM 4913 (Fall 2019, Spring 2020): Senior Design, Oklahoma State University
