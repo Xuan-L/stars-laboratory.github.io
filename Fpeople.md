@@ -11,7 +11,7 @@ main_nav: true
 #### **Chenang Liu**  
 **Ph.D  Assistant Professor**  
 **Director, STARs Lab**  
-Industrial Engineering & Management  
+School of Industrial Engineering & Management  
 Oklahoma State University  
 354 Engineering North  
 Stillwater, Oklahoma 74078-5016 USA  
@@ -29,7 +29,7 @@ M.S. Statistics, Virginia Tech, 2017.
 B.S., Mathematics (Statistics track), Zhejiang University, China, 2014.  
 B.S., Environmental and Resource Sciences, Zhejiang University, China, 2014.
 
-# Student
+# Students
 
 ![Yuxuan]({{ site.baseurl }}/assets/yuxuan.jpg){:.profile}
 #### **Yuxuan Li**  

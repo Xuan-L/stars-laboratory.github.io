@@ -5,8 +5,4 @@ permalink: /publications/
 main_nav: true
 ---
 
-# Smart manufacturing
-
-    
-
-# Healthcare
+# Under Construction. Coming Soon. 
