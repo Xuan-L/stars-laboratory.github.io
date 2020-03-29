@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: Home
-permalink: /home
+permalink: /
 main_nav: true
 ---
 
