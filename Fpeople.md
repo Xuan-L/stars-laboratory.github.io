@@ -22,7 +22,7 @@ E-mail: chenang.liu@okstate.edu
 # Graduate Students
 
 ![Yuxuan]({{ site.baseurl }}/assets/yuxuan.jpg){:.profile}
-#### **Yuxuan Li, PhD student**  
+#### **Yuxuan Li, Ph.D. student**  
 
 * BEc, Economics Statistics, Renmin University of China, China 
 
@@ -47,7 +47,7 @@ E-mail: chenang.liu@okstate.edu
 
 ***
 
-#### **Ayse Dogan, Master student**  
+#### **Ayse Dogan, M.S. student**  
 
 * BEng, Industrial Engineering, Antalya Bilim University, Turkey 
 
