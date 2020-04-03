@@ -9,8 +9,8 @@ exclude:
   - "/vendor/"
 
 # Site settings
-title: Welcome to STARs Laboratory!
-subtitle: "Smart Technologies and Analytics Research (STARs) Laboratory"
+title: Welcome to Smart Technologies and Analytics Research (STARs) Laboratory!
+subtitle: "Dr. Chenang Liu's Research Group in Industrial Engineering and Management at Oklahoma State University"
 email: chenang.liu@okstate.edu
 name: STARs Laboratory
 description: >
