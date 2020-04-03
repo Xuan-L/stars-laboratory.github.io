@@ -91,16 +91,16 @@ pre code.hljs {
 		background-position: 50% 50%;
 		background-size: cover;
 		.title {
-			font-size: modular-scale(6);
+			font-size: modular-scale(8);
 		}
 		.subtitle, .info {
-			font-size: modular-scale(1);
+			font-size: modular-scale(3);
 		}
 	}
 	.scrim {
 		padding: 3em 1em;
 		&.has-cover {
-			background-color: rgba(0,0,0,0.2);
+			background-color: rgba(0,0,0,0);
 			padding: 6em 1em !important;
 			@include media($tablet) {
 				padding: 9em 1em !important;
