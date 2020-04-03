@@ -7,13 +7,13 @@ main_nav: true
 
 ### Recent News and Updates
 
-* March 2020: Undergraduate student Jackson Baker's paper, mentored by Dr. Liu, won the second place in the IISE Southcentral Regional Undergraduate Technical Paper Competition. Congratulations! 
+* March 2020: Undergraduate student Jackson Baker's paper, mentored by Dr. Liu, won the second place in the 2020 IISE Southcentral Regional Undergraduate Technical Paper Competition. Congratulations! 
 * March 2020: Dr. Liu gave a seminar in the Department of Statistics at Oklahoma State University. 
 * December 2019: The senior design team mentored by Dr. Liu won the IEM senior design poster competition. Congratulations! 
 * October 2019: Our group gave multiple invited talks at INFORMS Annual Meeting, Seattle, 2019.  
 * October 2019: Yuxuan and Zhangyue were selected as a finalist of 2019 INFORMS QSR Data Challenge Competition. Congratulations! 
 * September 2019: Ayse Dogan joined our group as a new M.S. student. Welcome! 
-* August 2019: Dr. Liu gave an invited talk at the special session of SFF. 
+* August 2019: Dr. Liu gave an invited talk at the 2019 Annual SFF Symposium. 
 * August 2019: Yuxuan Li and Zhangyue Shi joined our group as new Ph.D. students. Welcome! 
 
 
