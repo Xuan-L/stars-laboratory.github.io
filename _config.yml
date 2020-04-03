@@ -9,12 +9,12 @@ exclude:
   - "/vendor/"
 
 # Site settings
-title: Welcome to Smart Technologies and Analytics Research (STARs) Laboratory!
-subtitle: "Dr. Chenang Liu's Research Group in Industrial Engineering and Management at Oklahoma State University"
+title: Welcome to Smart Technologies & Analytics Research (STARs) Laboratory!
+subtitle: "Dr. Chenang Liu's Research Group in the School of Industrial Engineering and Management at Oklahoma State University"
 email: chenang.liu@okstate.edu
 name: STARs Laboratory
 description: >
-  Smart Technologies and Analytics Research (STARs) Lab at Oklahoma State University
+  Smart Technologies & Analytics Research (STARs) Lab at Oklahoma State University
 # Base URL of site (i.e. /blog). It should always start with a slash,
 # and never end with a slash. Set it to a blank value if hosting at the
 # root of your server.
@@ -23,7 +23,7 @@ url: "https://stars-laboratory.github.io/" # the base hostname & protocol for yo
 cover: "/assets/header_image.png"
 logo: "/assets/logo.png"
 logo_new: "/assets/logo_new.jpg"
-text: "Smart Technologies and Analytics Research (STARs) laboratory"
+text: "Smart Technologies & Analytics Research (STARs) laboratory"
 
 # Build settings
 markdown: kramdown
