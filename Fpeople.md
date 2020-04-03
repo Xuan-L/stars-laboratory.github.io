@@ -46,7 +46,7 @@ E-mail: chenang.liu@okstate.edu
 &nbsp;
 
 ***
-
+![Ayse]({{ site.baseurl }}/assets/Ayse.jpeg){:.profile}
 #### **Ayse Dogan, M.S. student**  
 
 * BEng, Industrial Engineering, Antalya Bilim University, Turkey 
