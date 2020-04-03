@@ -7,17 +7,17 @@ main_nav: true
 
 <h1 align="center">Contact information</h1>
 
-**Dr.Chenang Liu, Assistant professor**  
-**Industrial Engineering & Management**  
-**Oklahoma State University**  
-354 Engineering North  
-Stillwater, Oklahoma 74078-5016 USA  
+**Dr. Chenang Liu, Assistant professor**  
+**School of Industrial Engineering & Management, Oklahoma State University**  
+354 Engineering North, Stillwater, Oklahoma 74078
 Phone: (405) 744-6055  
-E-mail: chenang.liu@okstate.edu
-
-<h1 align="center">Location</h1>
+**E-mail: chenang.liu@okstate.edu**
 
 <hr>
+
+<h1 align="center">Lab location</h1>
+
+The Lab is located at OSU Advanced Technology Research Center (ATRC). 
 
 <div style="display: flex; align-items: center; justify-content: center;"><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3222.7578346150394!2d-97.07045588543758!3d36.123757113183814!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87b10a3eeeba96c1%3A0x6e2ec6f685479da5!2sATRC!5e0!3m2!1sen!2sus!4v1583348955334!5m2!1sen!2sus" width="1200" height="600" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
 </div>
