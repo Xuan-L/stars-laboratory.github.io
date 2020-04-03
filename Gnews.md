@@ -5,7 +5,7 @@ permalink: /news/
 main_nav: true
 ---
 
-### Recent News
+### Recent News and Updates
 
 * March 2020: Undergraduate student Jackson Baker's paper, mentored by Dr. Liu, won the second place in the IISE Southcentral Regional Undergraduate Technical Paper Competition. Congratulations! 
 * March 2020: Dr. Liu gave a seminar in the Department of Statistics at Oklahoma State University. 
