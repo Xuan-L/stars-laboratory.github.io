@@ -5,12 +5,13 @@ permalink: /teaching/
 main_nav: true
 ---
 
-Here are the courses Dr. Liu has taught at Oklahoma State University.
+Here are the courses Dr. Liu has taught.
 
 ### Undergraduate Courses
-* IEM 3303/MET 3543 (Fall 2019): Manufacturing Processes, Oklahoma State University
 * IEM 4103 (Spring 2020): Quality Control, Oklahoma State University
+* IEM 3303/MET 3543 (Fall 2019): Manufacturing Processes, Oklahoma State University
 * IEM 4913 (Fall 2019, Spring 2020): Senior Design (Faculty Mentor), Oklahoma State University
+* ISE 4404 (Summer 2018): Statistical Quality Control, Virginia Tech
 
 ### Graduate Courses
 
