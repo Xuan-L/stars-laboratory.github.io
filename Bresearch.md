@@ -5,4 +5,20 @@ permalink: /research/
 main_nav: true
 ---
 
-# Under Construction. Coming Soon. 
+# Research Projects
+(Under construction, details coming soon)
+
+## Sensor data analytics for smart manufacturing
+(Under construction, details coming soon)
+
+
+## Data-driven modeling and control for additive manufacturing
+(Under construction, details coming soon)
+
+
+## Image analysis for real-time medical diagnosis
+(Under construction, details coming soon)
+
+
+
+
