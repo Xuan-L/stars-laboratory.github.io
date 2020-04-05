@@ -5,18 +5,9 @@ permalink: /research/
 main_nav: true
 ---
 
-# Research Projects
-(Under construction, details coming soon)
+# Our Research
+The ultimate research goal of STARs Lab is to maximize the value of data in real-world manufacturing and healthcare systems, and make the system "smart" (learn "knowledge" from data). Our research direction is to develop effective and efficient data analytics methodologies for information extraction, prediction, decision-making, design, etc. 
 
-## Sensor data analytics for smart manufacturing
-(Under construction, details coming soon)
-
-
-## Data-driven modeling and control for additive manufacturing
-(Under construction, details coming soon)
-
-
-## Image analysis for real-time medical diagnosis
 (Under construction, details coming soon)
 
 
