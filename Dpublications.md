@@ -20,6 +20,7 @@ Here are the publications since 2019
 
 ## Conference Papers
 
+* Chen, Y., Kou, X., Olama, M., Zandi, H., Liu, C., Kassaee, S., Smith, B., Abu-Heiba, A., and Momen, A., 2020, “Bi-Level Optimization for Electricity Transaction in Smart Community with Modular Pump HydroStorage, ” *The proceedings of ASME 2020 International Design Engineering Technical Conferences Computersand Information in Engineering Conference (IDETC/CIE)*. (Accepted)
 * Liu, C., Tian, W., Kan, C., 2020, “An Online Side Channel Monitoring Approach for Cyber-Physical Attack Detection of Additive Manufacturing,” *The Proceedings of ASME 2020 Manufacturing Science and Engineering Conference (MSEC)*. (Accepted)
 * Ye, Z., Liu, C., Tian, W., Kan, C., 2020, “A Deep Learning Approach for the Identification of Small Process Shifts in Additive  Manufacturing using 3D Point Clouds,” *The Proceedings of SME 48th North American Manufacturing Research Conference (NAMRC)*. (Accepted)
 * Liu, C., Wang, R., Kong, Z., Babu, S., Joslin, C., and Ferguson, J., 2019, “Real-time 3D Surface Measurement in Additive Manufacturing Using Deep Learning,” *The Proceedings of 30th Annual International Solid Freeform Fabrication Symposium (SFF)*.
