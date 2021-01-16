@@ -20,9 +20,9 @@ description: >
 # root of your server.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://stars-laboratory.github.io/" # the base hostname & protocol for your site
-cover: "/assets/cover_temp.jpg"
+cover: "/assets/cover_temp_new.jpg"
 logo: "/assets/logo_long.png"
-logo_new: "/assets/IEM_logo.png"
+# logo_new: "/assets/IEM_logo.png"
 text: "Smart Technology & Analytics Research (STARs) laboratory"
 
 # Build settings

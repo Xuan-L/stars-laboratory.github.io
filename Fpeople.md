@@ -7,7 +7,7 @@ main_nav: true
 
 # Faculty
 
-![Dr.ChenangLiu]({{ site.baseurl }}/assets/DrChenangLiu.jpeg "Profile Picture"){:.profile}
+![Dr.ChenangLiu]({{ site.baseurl }}/assets/Liu.png "Profile Picture"){:.profile}
 #### **Chenang Liu, Assistant Professor**  
 
 * Ph.D. Industrial and Systems Engineering, Virginia Tech, 2019.
