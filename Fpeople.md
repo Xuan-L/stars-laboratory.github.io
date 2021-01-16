@@ -8,14 +8,16 @@ main_nav: true
 # Faculty
 
 ![Dr.ChenangLiu]({{ site.baseurl }}/assets/DrChenangLiu.jpeg "Profile Picture"){:.profile}
-#### **Chenang Liu, Ph.D.**  
-**Assistant Professor**  
-School of Industrial Engineering & Management  
-Oklahoma State University  
-354 Engineering North  
-Stillwater, Oklahoma 74078-5016 USA  
-Phone: (405) 744-6055  
-E-mail: chenang.liu@okstate.edu
+#### **Chenang Liu, Assistant Professor**  
+
+* Ph.D. Industrial and Systems Engineering, Virginia Tech, 2019.
+
+* M.S. Statistics, Virginia Tech, 2017.
+
+* B.S. Mathematics (Statistics track), Zhejiang University, China, 2014.
+
+* B.S. Environmental and Resource Sciences, Zhejiang University, China, 2014
+
 
 ***
 

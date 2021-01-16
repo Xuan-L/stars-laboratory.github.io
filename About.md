@@ -9,12 +9,14 @@ main_nav: true
 
 Dr. Chenang Liu, Ph.D.,
 Assistant Professor,
-School of Industrial Engineering and Mangament, Oklahoma State University
+School of Industrial Engineering and Management, 
+Oklahoma State University
+Email: chenang.liu@okstate.edu
 
 ### Research
 
 STARs Lab focuses on the following research directions:
 
-* Sensor fusion and data analytics for advanced manufacturing (e.g. additive manufacturing)
+* Sensor fusion and advanced data analytics for smart manufacturing (e.g. additive manufacturing) and healthcare
 * Advanced statistical analysis for real-time quality monitoring and control
-* Machine learning and mathematical modeling for healthcare applications
+* Machine learning and mathematical modeling for complex systems
