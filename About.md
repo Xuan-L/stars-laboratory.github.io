@@ -9,7 +9,8 @@ main_nav: true
 
 Dr. Chenang Liu, Ph.D.,
 Assistant Professor,
-School of Industrial Engineering and Management, 
+School of Industrial Engineering and Management (IEM), 
+Institute for Translational and Emerging Research in Advanced Comparative Therapy (INTERACT), 
 Oklahoma State University
 Email: chenang.liu@okstate.edu
 
