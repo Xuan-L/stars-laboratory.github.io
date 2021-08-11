@@ -7,6 +7,13 @@ main_nav: true
 
 ### Recent News and Updates
 
+* August 2021: Dr. Liu's paper is featured in the Industrial and Systems Engineer magazine (ISE) Magazine. 
+* August 2021: PhD student Zhangyue Shi presented his research works in the IDETC/CIE 2021 conference. He is partially supported by the student stipends from the ASME CIE division. 
+* June 2021: PhD student Zhangyue Shi presented his research works in the NAMRC49/MSEC2021 conference. He is supported by the NSF-Sponsored Student Support Award. 
+* May 2021: PhD student Yuxuan Li and Zhangyue successfully passed their PhD qualifying exam. Congratulations! 
+* April 2021: Master student Ayse Dogan successfully defended her MS thesis. Congratulations! 
+* April 2021: Dr. Liu was elected as a board director in data analytics and information systems (DAIS) division of IISE. 
+* March 2021: Dr. Liu gave a seminar in the Department of Industrial and Manufacturing Engineering at North Dakota State University. 
 * January 2021: PhD student Yuxuan Li won the Best Poster Award in the 5th International Workshop on Biomedical Informatics with Optimization and Machine Learning (BOOM) in Conjunction with 29th International Joint Conference on Artificial Intelligence (IJCAI). Congratulations! 
 * November 2020: Our group gave multiple invited talks at 2020 Virtual INFORMS Annual Meeting. 
 * October 2020: Our paper "A Blockchain-based G-code Protection Approach for Cyber-Physical Security in Additive Manufacturing" has been accepted by ASME Journal of Computing and Information Science in Engineering. 
