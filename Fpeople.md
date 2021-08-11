@@ -49,7 +49,9 @@ main_nav: true
 
 ***
 ![Ayse]({{ site.baseurl }}/assets/Ayse.jpeg){:.profile}
-#### **Ayse Dogan, M.S. student**  
+#### **Ayse Dogan, M.S. student**  (Graduated in May 2021)
+
+* Current position: PhD Student at University of Illinois at Urbana-Champaign 
 
 * BEng, Industrial Engineering, Antalya Bilim University, Turkey 
 
@@ -57,4 +59,4 @@ main_nav: true
 
 * E-mail: adogan@okstate.edu
 
-* Thesis topic: High Dimensional Data Analysis for Smart Health System
+* Thesis title: Data-Driven Modeling and Analysis for Cardiovascular Disease Risk Prediction and Reduction
