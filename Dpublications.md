@@ -14,6 +14,8 @@ main_nav: true
 * Li, Y.\*, Shi, Z.\*, Liu, C., Tian, W., Kong, Z., and Williams, C., 2021, "Augmented Time Regularized Generative Adversarial Network (ATR-GAN) for Data Augmentation in Online Process Anomaly Detection," *IEEE Transactions on Automation Science and Engineering*. (Conditionally Accepted)
     * ***This work is selected as the finalist of the Data Challenge Award, QSR Section, INFORMS, 2019***
 
+* Ye, Z., Liu, C., Tian, W., and Kan, C., 2021, "In-situ Point Cloud Fusion for Layer-wise Monitoring ofAdditive Manufacturing," Journal of Manufacturing Systems. (Accepted)
+
 * Shi, Z.\*, Kan, C., Tian, W., and Liu, C., 2021, "A Blockchain-based G-code Protection Approach for Cyber-Physical Security in Additive Manufacturing," *ASME Journal of Computing and Information Science in Engineering*. Vol.21(4), pp.041007.
 
 * Liu, C., Kong, Z., Babu, S., Joslin, C., and Ferguson, J., 2020, "An Integrated Manifold Learning Approach for High Dimensional Data Feature Extractions and its Applications to Online Process Monitoring of Additive Manufacturing," *IISE Transactions*. (in press)
