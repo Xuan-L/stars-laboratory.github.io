@@ -145,10 +145,12 @@ pre code.hljs {
     position: relative;
   }
   .logo {
+    display: flex;
+    justify-content: center;
     float: center;
     height: 4em;
     @include media ($tablet) {
-    	padding-left: $em-base;
+    	padding-center: $em-base;
     }
     img {
       max-height: 3.1em;
@@ -161,39 +163,32 @@ pre code.hljs {
   }
   .logo_new {
     float: left;
-    height: 3em;
+    height: 0em;
     @include media ($tablet) {
     	padding-left: $em-base;
     }
     img {
-      max-height: 2em;
-      margin-top: 0.5em;
-      padding-left: 2em;
+      max-height: 0em;
+      margin-top: 0em;
+      padding-left: 0em;
     }
     span {
     	font-size: 0em;
     }
   }
-  .text {
-    height: 4em;
-    font-size: 20px;
-    text-align: center;
-    margin-top: 0px;
-    padding-top: 0px;
-    padding-bottom: 0px;
-    margin-bottom: 0px;
-  }
   nav {
+    display: table;
+    margin: 0 auto;
     float: none;
     padding: 1.25em 0;
     @include media ($tablet) {
-      float: right;
-      line-height: 1.5em;
+      float: center;
+      line-height: 1em;
     }
   }
   ul.navigation-menu {
     clear: both;
-    display: none;
+    display: table;
     margin: 0 auto;
     float: middle;
     font-size: 17px;
@@ -201,12 +196,12 @@ pre code.hljs {
     padding: 0;
     width: 100%;
     @include media ($tablet) {
-      display: block;
-      margin: 0;
+      display: table;
+      margin: 0 auto;
       padding: 0;
     }
     &.show {
-      display: block;
+      display: table;
     }
   }
   // Nav items
