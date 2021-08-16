@@ -156,7 +156,22 @@ pre code.hljs {
       padding-right: 1em;
     }
     span {
-    	font-size: 1.25em;
+    	font-size: 0em;
+    }
+  }
+  .logo_new {
+    float: left;
+    height: 3em;
+    @include media ($tablet) {
+    	padding-left: $em-base;
+    }
+    img {
+      max-height: 2em;
+      margin-top: 0.5em;
+      padding-left: 2em;
+    }
+    span {
+    	font-size: 0em;
     }
   }
   .text {
