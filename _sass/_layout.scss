@@ -145,28 +145,13 @@ pre code.hljs {
     position: relative;
   }
   .logo {
-    float: left;
+    float: center;
     height: 4em;
     @include media ($tablet) {
     	padding-left: $em-base;
     }
     img {
       max-height: 3.1em;
-      margin-top: 0.75em;
-      padding-right: 1em;
-    }
-    span {
-    	font-size: 1.25em;
-    }
-  }
-  .logo_new {
-    float: right;
-    height: 4em;
-    @include media ($tablet) {
-    	padding-left: $em-base;
-    }
-    img {
-      max-height: 2.5em;
       margin-top: 0.75em;
       padding-right: 1em;
     }
