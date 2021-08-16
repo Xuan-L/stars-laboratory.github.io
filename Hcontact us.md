@@ -17,7 +17,7 @@ Phone: (405) 744-6055
 
 <h1 align="center">Lab location</h1>
 
-The Lab is located at OSU Engineering north. 
+The lab is located at OSU Engineering north. 
 
 <div style="display: flex; align-items: center; justify-content: center;"><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3222.753630855715!2d-97.07127658560088!3d36.12385951317841!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87b10a3e672a7f65%3A0xbe60ae812174aca2!2sEngineering%20North%2C%20Stillwater%2C%20OK%2074075!5e0!3m2!1sen!2sus!4v1629091895366!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 </div>
