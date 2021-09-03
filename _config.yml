@@ -9,20 +9,20 @@ exclude:
   - "/vendor/"
 
 # Site settings
-title: Welcome to STARs Laboratory!
-subtitle: "Dr. Chenang Liu's Research Group in the School of Industrial Engineering and Management at Oklahoma State University"
-email: chenang.liu@okstate.edu
-name: STARs Laboratory
+title: Testing!
+subtitle: "Testing"
+email: yuxuan.li@okstate.edu
+name: Testing
 description: >
-  Smart Technology & Analytics Research (STARs) Lab at Oklahoma State University
+  Testing
 # Base URL of site (i.e. /blog). It should always start with a slash,
 # and never end with a slash. Set it to a blank value if hosting at the
 # root of your server.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "https://stars-laboratory.github.io/" # the base hostname & protocol for your site
+url: "https://xuan-l.github.io/" # the base hostname & protocol for your site
 cover: "/assets/cover_temp_new_2.jpg"
 logo: "/assets/logo_long.png"
-text: "Smart Technology & Analytics Research (STARs) laboratory"
+text: "Testing"
 
 # Build settings
 markdown: kramdown
