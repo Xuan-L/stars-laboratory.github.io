@@ -18,8 +18,3 @@ updates:
     # Check for updates once a week
     schedule:
       interval: "weekly"
-
-作者：张_培
-链接：https://juejin.cn/post/6873454712427905032
-来源：掘金
-著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
